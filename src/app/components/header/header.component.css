@@ -1,0 +1,9 @@
+.header {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/026/945/935/large_2x/business-man-on-black-background-free-photo.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 400px; /* Adjust the height as needed */
+  }
